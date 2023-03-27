@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1, h2 {
+    color: lightpink;
+    margin: 0px;
+}
+
+header {
+    background-color: whitesmoke;
+}
+
+.header-in {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 370px;
+    gap: 15px;
+    padding: 10px;
+}
